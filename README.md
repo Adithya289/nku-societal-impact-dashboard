@@ -2,13 +2,13 @@
 
 # NKU Educational Equity Analytics: A Comprehensive Dashboard for Student Success and Societal Impact Measurement
 
-## 1. Project Overview
+#  Project Overview
 
 This project addresses a critical challenge facing higher education institutions today: understanding and closing educational equity gaps while measuring societal impact. Developed for Northern Kentucky University's Haile College of Business, this Power BI dashboard transforms complex enrollment and demographic data into actionable insights that drive institutional decision-making.
 
 The dashboard serves as a strategic tool for university leadership, enabling them to track progress toward their ambitious 10-year societal impact goals, including reaching 3,000 high school students, 3,500 college students, and 300 teachers through financial literacy programs. By visualizing enrollment trends, demographic distributions, and program performance metrics, this solution empowers stakeholders to make data-driven decisions that promote educational equity and student success.
 
-## 2. Table of Contents
+#  Table of Contents
 
 [Project Overview](#project-overview)
 
@@ -16,17 +16,17 @@ The dashboard serves as a strategic tool for university leadership, enabling the
 
 [Data Structure and Initial Checks](#data-structure-and-initial-checks)
 
-[Executive Summary & Business Problem](#executive-summary-&-business-problem)
+[Executive Summary & Business Problem](#executive-summary)
 
  [North Star Metrics Framework](#north-star-metrics-framework)
  
- [Dashboard Architecture & Visual Analysis](#dashboard-architecture-&-visual-analysis)
+ [Dashboard Architecture & Visual Analysis](#dashboard-architecture-and-visual-analysis)
  
  [Strategic Recommendations](#strategic-recommendations)
  
- [Caveats & Assumptions](#caveats-&-assumptions)
+ [Caveats & Assumptions](#caveats-and-assumptions)
 
-# 3. Insights and Recommendations
+#  Insights and Recommendations
 
 ## Enrollment & Growth Analytics
 ## Student Population Insights
@@ -108,7 +108,7 @@ The dashboard serves as a strategic tool for university leadership, enabling the
 
 **Business Problem**: NKU needed to understand enrollment patterns and demographic equity gaps to align with their societal impact statement goals of fostering inclusive education and narrowing equity gaps in their eight-county service area.
 
-**Key Findings Overview**:
+## **Key Findings Overview**:
 - Total student population of 3,310 shows steady growth trajectory
 - Significant demographic disparities exist, with White/Non-Hispanic students representing 84.6% of enrollment
 - Financial literacy program participation varies dramatically across ethnic groups
@@ -122,7 +122,8 @@ This dashboard is oriented around three critical North Star metrics that align w
 2. **Program Participation Rate** (Secondary): Tracking engagement across all student populations  
 3. **Societal Impact Reach** (Tertiary): Quantifying community influence and educational access
 
-# Dashboard Architecture & Visual Analysis
+
+# Dashboard Architecture and Visual Analysis
 
 
 
@@ -205,7 +206,7 @@ This dashboard is oriented around three critical North Star metrics that align w
 - Goal: Achieve 70% post-assessment improvement scores across all demographics
 - Objective: Establish measurable pathways for 85% of program graduates into regional workforce
 
-## Caveats and Assumptions
+#  Caveats and Assumptions
 
 **Data Limitations**:
 - Historical data may not reflect recent demographic shifts in service area
