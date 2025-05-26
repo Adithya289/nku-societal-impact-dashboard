@@ -10,13 +10,23 @@ The dashboard serves as a strategic tool for university leadership, enabling the
 
 ## 2. Table of Contents
 
-1. **Executive Summary & Business Problem**
-2. **North Star Metrics Framework**
-3. **Dashboard Architecture & Visual Analysis**
-4. **Key Insights & Findings**
-5. **Strategic Recommendations**
-6. **Implementation Roadmap**
-7. **Caveats & Assumptions**
+[Project Overview](project_overview)
+
+[Insights and Recommendations](insights_and_recommendations)
+
+[Data Structure and Initial Checks](data_structure_and_initial_checks)
+
+[Executive Summary & Business Problem](executive_summary_&_business_problem)
+
+ [North Star Metrics Framework](north_star_metrics_framework)
+ 
+ [Dashboard Architecture & Visual Analysis](dashboard_architecture_&_visual_analysis)
+ 
+ [Key Insights & Findings](key_insights_&_findings)
+ 
+ [Strategic Recommendations](strategic_recommendations)
+ 
+ [Caveats & Assumptions](caveats_&_assumptions)
 
 ## 3. Insights and Recommendations
 
@@ -74,11 +84,13 @@ The dashboard serves as a strategic tool for university leadership, enabling the
 
 
 ### Links
-- **Interactive Dashboard**: [Power BI Dashboard - NKU Educational Equity Analytics]
+- **Interactive Dashboard**: [Power BI Dashboard - NKU Educational Equity Analytics can be downloaded](https://1drv.ms/p/c/1a4152247a40dd3e/EbMvrTz9cLhOgvExaJZ6iUsB1nbegro2Ee_81lRhnaF5yA?e=F8lOYp)
 - **Data Sources**: Integrated from NKU student information systems and demographic databases
-- **Refresh Schedule**: Daily automated updates with real-time KPI monitoring
 
 ### Data Structure and Initial Checks
+
+
+![orders](https://github.com/user-attachments/assets/ec776dd5-4606-4b92-8f98-9ec3ecef80e7)
 
 **Primary Data Sources:**
 - Student enrollment records (2019-2024)
@@ -112,6 +124,10 @@ This dashboard is oriented around three critical North Star metrics that align w
 
 ### Dashboard Architecture & Visual Analysis
 
+
+![Screenshot 2025-05-26 125730](https://github.com/user-attachments/assets/b4419645-653e-4084-8af5-64ba1ee4122a)
+
+
 #### Visual 1: All Programs Variance Analysis (Top Dashboard)
 
 **Insights:**
@@ -121,6 +137,7 @@ This dashboard is oriented around three critical North Star metrics that align w
 - **Variance Patterns**: 2023 shows significant growth with 1,966 net increase, indicating successful program expansion
 
 **Business Impact**: This 53% growth rate over three years demonstrates strong program momentum but highlights the need for infrastructure scaling to maintain quality.
+![Screenshot 2025-05-26 125746](https://github.com/user-attachments/assets/2073e49b-0f2b-4bf5-b2d5-8ce8c8b9ffec)
 
 #### Visual 2: Financial Literacy Equity Gap Analysis (Bottom Dashboard)
 
