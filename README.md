@@ -10,25 +10,23 @@ The dashboard serves as a strategic tool for university leadership, enabling the
 
 ## 2. Table of Contents
 
-[Project Overview](project_overview)
+[Project Overview](##project_overview)
 
-[Insights and Recommendations](insights_and_recommendations)
+[Insights and Recommendations](#insights_and_recommendations)
 
-[Data Structure and Initial Checks](data_structure_and_initial_checks)
+[Data Structure and Initial Checks](#data_structure_and_initial_checks)
 
-[Executive Summary & Business Problem](executive_summary_&_business_problem)
+[Executive Summary & Business Problem](#executive_summary_&_business_problem)
 
- [North Star Metrics Framework](north_star_metrics_framework)
+ [North Star Metrics Framework](###north_star_metrics_framework)
  
- [Dashboard Architecture & Visual Analysis](dashboard_architecture_&_visual_analysis)
+ [Dashboard Architecture & Visual Analysis](#dashboard_architecture_&_visual_analysis)
  
- [Key Insights & Findings](key_insights_&_findings)
+ [Strategic Recommendations](#strategic_recommendations)
  
- [Strategic Recommendations](strategic_recommendations)
- 
- [Caveats & Assumptions](caveats_&_assumptions)
+ [Caveats & Assumptions](#caveats_&_assumptions)
 
-## 3. Insights and Recommendations
+# 3. Insights and Recommendations
 
 ## Enrollment & Growth Analytics
 ## Student Population Insights
@@ -87,7 +85,9 @@ The dashboard serves as a strategic tool for university leadership, enabling the
 - **Interactive Dashboard**: [Power BI Dashboard - NKU Educational Equity Analytics can be downloaded](https://1drv.ms/p/c/1a4152247a40dd3e/EbMvrTz9cLhOgvExaJZ6iUsB1nbegro2Ee_81lRhnaF5yA?e=F8lOYp)
 - **Data Sources**: Integrated from NKU student information systems and demographic databases
 
-### Data Structure and Initial Checks
+# Data Structure and Initial Checks
+
+
 
 
 ![orders](https://github.com/user-attachments/assets/ec776dd5-4606-4b92-8f98-9ec3ecef80e7)
@@ -104,7 +104,7 @@ The dashboard serves as a strategic tool for university leadership, enabling the
 - **Temporal Coverage**: 6-year historical trend analysis
 - **Demographic Coverage**: 8 ethnic/racial categories tracked
 
-### Executive Summary
+# Executive Summary
 
 **Business Problem**: NKU needed to understand enrollment patterns and demographic equity gaps to align with their societal impact statement goals of fostering inclusive education and narrowing equity gaps in their eight-county service area.
 
@@ -122,7 +122,9 @@ This dashboard is oriented around three critical North Star metrics that align w
 2. **Program Participation Rate** (Secondary): Tracking engagement across all student populations  
 3. **Societal Impact Reach** (Tertiary): Quantifying community influence and educational access
 
-### Dashboard Architecture & Visual Analysis
+# Dashboard Architecture & Visual Analysis
+
+
 
 
 ![Screenshot 2025-05-26 125730](https://github.com/user-attachments/assets/b4419645-653e-4084-8af5-64ba1ee4122a)
@@ -137,6 +139,8 @@ This dashboard is oriented around three critical North Star metrics that align w
 - **Variance Patterns**: 2023 shows significant growth with 1,966 net increase, indicating successful program expansion
 
 **Business Impact**: This 53% growth rate over three years demonstrates strong program momentum but highlights the need for infrastructure scaling to maintain quality.
+
+
 ![Screenshot 2025-05-26 125746](https://github.com/user-attachments/assets/2073e49b-0f2b-4bf5-b2d5-8ce8c8b9ffec)
 
 #### Visual 2: Financial Literacy Equity Gap Analysis (Bottom Dashboard)
@@ -156,7 +160,7 @@ This dashboard is oriented around three critical North Star metrics that align w
 
 **Academic Level Analysis**: Strong representation across college freshman through high school junior levels, indicating successful K-16 pipeline development
 
-### Strategic Recommendations
+# Strategic Recommendations
 
 #### Immediate Actions (0-6 months):
 
@@ -189,7 +193,7 @@ This dashboard is oriented around three critical North Star metrics that align w
    - Create alumni success metrics tied to financial literacy program completion
    - Establish research partnerships to measure mindfulness scholarship dissemination (50,000 target)
 
-### Quantified Business Value
+## Quantified Business Value
 
 **ROI Projections**:
 - **Cost Savings**: $180,000 annually through improved retention rates in underrepresented populations
@@ -201,7 +205,7 @@ This dashboard is oriented around three critical North Star metrics that align w
 - Goal: Achieve 70% post-assessment improvement scores across all demographics
 - Objective: Establish measurable pathways for 85% of program graduates into regional workforce
 
-### Caveats and Assumptions
+## Caveats and Assumptions
 
 **Data Limitations**:
 - Historical data may not reflect recent demographic shifts in service area
