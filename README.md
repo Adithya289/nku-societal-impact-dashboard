@@ -10,21 +10,21 @@ The dashboard serves as a strategic tool for university leadership, enabling the
 
 ## 2. Table of Contents
 
-[Project Overview](##project_overview)
+[Project Overview](#project-overview)
 
-[Insights and Recommendations](#insights_and_recommendations)
+[Insights and Recommendations](#insights-and-recommendations)
 
-[Data Structure and Initial Checks](#data_structure_and_initial_checks)
+[Data Structure and Initial Checks](#data-structure-and-initial-checks)
 
-[Executive Summary & Business Problem](#executive_summary_&_business_problem)
+[Executive Summary & Business Problem](#executive-summary-&-business-problem)
 
- [North Star Metrics Framework](###north_star_metrics_framework)
+ [North Star Metrics Framework](#north-star-metrics-framework)
  
- [Dashboard Architecture & Visual Analysis](#dashboard_architecture_&_visual_analysis)
+ [Dashboard Architecture & Visual Analysis](#dashboard-architecture-&-visual-analysis)
  
- [Strategic Recommendations](#strategic_recommendations)
+ [Strategic Recommendations](#strategic-recommendations)
  
- [Caveats & Assumptions](#caveats_&_assumptions)
+ [Caveats & Assumptions](#caveats-&-assumptions)
 
 # 3. Insights and Recommendations
 
